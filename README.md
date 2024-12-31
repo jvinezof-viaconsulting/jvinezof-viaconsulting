@@ -34,5 +34,5 @@ I like to start new projects and learn about different technologies. I am partic
 Here are some of the projects I've worked on:
 
 - [React Calculator with FluentUI](https://github.com/jvinezof-viaconsulting/react-calculator)
-- [📝 React Task Manager with Jest Testing Tutorial](https://github.com/jvinezof-viaconsulting/react-task-manager)
+- [React Task Manager with Jest Testing Tutorial](https://github.com/jvinezof-viaconsulting/react-task-manager)
 - [JS Tools](https://github.com/jvinezof-viaconsulting/js-tools)
